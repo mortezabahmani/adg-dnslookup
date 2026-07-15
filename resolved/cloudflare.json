@@ -1,0 +1,33 @@
+{
+  "list_name": "cloudflare",
+  "resolved_at": "2026-07-15T12:00:00Z",
+  "resolver_sources": [
+    "cloudflare",
+    "google",
+    "quad9"
+  ],
+  "domains": {
+    "cloudflare.com": {
+      "A": [
+        "104.16.132.229",
+        "104.16.133.229"
+      ],
+      "AAAA": [
+        "2606:4700::6810:84e5",
+        "2606:4700::6810:85e5"
+      ],
+      "consensus": true
+    },
+    "one.one.one.one": {
+      "A": [
+        "1.1.1.1",
+        "1.0.0.1"
+      ],
+      "AAAA": [
+        "2606:4700:4700::1111",
+        "2606:4700:4700::1001"
+      ],
+      "consensus": true
+    }
+  }
+}
