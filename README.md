@@ -53,7 +53,7 @@ GitHub Actions (خارج از ایران)
 
 ```bash
 # کلون ریپو
-git clone https://github.com/YOUR_USERNAME/adg-dnslookup.git
+git clone https://github.com/mortezabahmani/adg-dnslookup.git
 cd adg-dnslookup
 
 # نصب وابستگی‌ها
@@ -78,7 +78,7 @@ url = http://192.168.1.1:3000    # آدرس AdGuard Home شما
 username = admin                   # یوزرنیم
 
 [github]
-repo = YOUR_USERNAME/adg-dnslookup
+repo = mortezabahmani/adg-dnslookup
 branch = main
 
 [lists]
@@ -133,7 +133,7 @@ python client/adg_sync.py --mode standalone --lists google,social
 export AGH_URL="http://192.168.1.1:3000"
 export AGH_USER="admin"
 export AGH_PASS="password"
-export REPO="YOUR_USERNAME/adg-dnslookup"
+export REPO="mortezabahmani/adg-dnslookup"
 export LISTS="google,social,dev"
 
 # اجرا
@@ -215,7 +215,7 @@ In Iran, the government blocks or poisons public DNS servers. When you resolve `
 
 ```bash
 # Clone
-git clone https://github.com/YOUR_USERNAME/adg-dnslookup.git
+git clone https://github.com/mortezabahmani/adg-dnslookup.git
 cd adg-dnslookup
 pip install -r requirements.txt
 
