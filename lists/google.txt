@@ -1,0 +1,107 @@
+# ============================================
+# Google Services
+# ============================================
+# Comprehensive list of Google-owned domains
+# and services for DNS rewrite rules.
+# ============================================
+
+# Core / Search
+google.com
+www.google.com
+
+# Gmail
+mail.google.com
+
+# Google Drive
+drive.google.com
+
+# Google Workspace (Docs, Sheets, Slides)
+docs.google.com
+sheets.google.com
+slides.google.com
+
+# Google Calendar
+calendar.google.com
+
+# Google Meet & Chat
+meet.google.com
+chat.google.com
+
+# Google Photos
+photos.google.com
+
+# Google Play
+play.google.com
+
+# Google Maps
+maps.google.com
+
+# Google Translate
+translate.google.com
+
+# Google News
+news.google.com
+
+# Accounts & Authentication
+accounts.google.com
+myaccount.google.com
+
+# Google APIs & Infrastructure
+apis.google.com
+fonts.googleapis.com
+ajax.googleapis.com
+storage.googleapis.com
+youtube.googleapis.com
+android.googleapis.com
+fcm.googleapis.com
+dialogflow.googleapis.com
+generativelanguage.googleapis.com
+googleapis.com
+
+# Google User Content & Static Assets
+lh3.googleusercontent.com
+googleusercontent.com
+gstatic.com
+www.gstatic.com
+ssl.gstatic.com
+encrypted-tbn0.gstatic.com
+
+# Firebase
+firebase.google.com
+firebaseio.com
+
+# Google AI
+gemini.google.com
+ai.google.dev
+bard.google.com
+
+# Google Scholar & Books
+scholar.google.com
+books.google.com
+
+# Google Support & Admin
+support.google.com
+admin.google.com
+
+# Google Analytics & Marketing
+analytics.google.com
+tagmanager.google.com
+marketingplatform.google.com
+
+# Google Ads
+ads.google.com
+adservice.google.com
+adsense.google.com
+
+# Blogger
+blogger.com
+www.blogger.com
+
+# Other Google Services
+groups.google.com
+sites.google.com
+keep.google.com
+earth.google.com
+classroom.google.com
+colab.research.google.com
+cloud.google.com

@@ -1,0 +1,83 @@
+# ============================================
+# Social Media & Messaging
+# ============================================
+# Telegram, Signal, Twitter/X, Discord,
+# Reddit, and other social platforms.
+# ============================================
+
+# Telegram
+t.me
+telegram.org
+telegram.me
+web.telegram.org
+desktop.telegram.org
+core.telegram.org
+api.telegram.org
+updates.telegram.org
+cdn1.telegram-cdn.org
+cdn5.telegram-cdn.org
+
+# Signal
+signal.org
+www.signal.org
+updates.signal.org
+api.signal.org
+
+# Twitter / X
+twitter.com
+x.com
+api.twitter.com
+api.x.com
+abs.twimg.com
+pbs.twimg.com
+video.twimg.com
+t.co
+
+# Discord
+discord.com
+www.discord.com
+cdn.discordapp.com
+gateway.discord.gg
+media.discordapp.net
+discordapp.com
+
+# Reddit
+reddit.com
+www.reddit.com
+old.reddit.com
+i.redd.it
+v.redd.it
+preview.redd.it
+external-preview.redd.it
+reddit.map.fastly.net
+
+# Mastodon
+mastodon.social
+
+# Pinterest
+pinterest.com
+www.pinterest.com
+
+# Snapchat
+snapchat.com
+www.snapchat.com
+web.snapchat.com
+
+# TikTok
+tiktok.com
+www.tiktok.com
+
+# Quora
+quora.com
+www.quora.com
+
+# Medium
+medium.com
+cdn-images-1.medium.com
+
+# Tumblr
+tumblr.com
+www.tumblr.com
+
+# Clubhouse
+clubhouse.com

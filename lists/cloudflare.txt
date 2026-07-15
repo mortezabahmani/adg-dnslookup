@@ -1,0 +1,33 @@
+# ============================================
+# Cloudflare Services
+# ============================================
+# Cloudflare-specific domains including DNS,
+# CDN, Workers, Pages, and developer tools.
+# ============================================
+
+# Core / Dashboard
+cloudflare.com
+www.cloudflare.com
+dash.cloudflare.com
+api.cloudflare.com
+
+# Cloudflare DNS (1.1.1.1)
+one.one.one.one
+cloudflare-dns.com
+
+# Cloudflare IPFS Gateway
+cloudflare-ipfs.com
+
+# Cloudflare Workers & Pages
+workers.dev
+pages.dev
+
+# Cloudflare CDN Libraries
+cdnjs.cloudflare.com
+
+# Cloudflare Tools & Community
+radar.cloudflare.com
+speed.cloudflare.com
+developers.cloudflare.com
+community.cloudflare.com
+blog.cloudflare.com

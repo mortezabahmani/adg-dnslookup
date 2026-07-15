@@ -1,0 +1,80 @@
+# ============================================
+# Streaming Services
+# ============================================
+# YouTube, Netflix, Spotify, Twitch, Vimeo,
+# SoundCloud, and other media platforms.
+# ============================================
+
+# YouTube
+youtube.com
+www.youtube.com
+m.youtube.com
+youtu.be
+music.youtube.com
+tv.youtube.com
+studio.youtube.com
+yt3.ggpht.com
+ytimg.com
+i.ytimg.com
+s.ytimg.com
+yt.be
+googlevideo.com
+
+# Netflix
+netflix.com
+www.netflix.com
+api.netflix.com
+assets.nflxext.com
+cdn-0.nflximg.com
+nflximg.net
+nflxvideo.net
+nflxso.net
+
+# Spotify
+spotify.com
+www.spotify.com
+open.spotify.com
+api.spotify.com
+apresolve.spotify.com
+scdn.co
+i.scdn.co
+audio4-fa.scdn.co
+
+# Twitch
+twitch.tv
+www.twitch.tv
+static.twitchcdn.net
+usher.twitchcdn.net
+clips.twitch.tv
+
+# Vimeo
+vimeo.com
+www.vimeo.com
+player.vimeo.com
+vimeocdn.com
+
+# SoundCloud
+soundcloud.com
+www.soundcloud.com
+api.soundcloud.com
+sndcdn.com
+
+# Deezer
+deezer.com
+www.deezer.com
+
+# Apple Media
+podcasts.apple.com
+tv.apple.com
+music.apple.com
+
+# Amazon Prime Video
+primevideo.com
+www.primevideo.com
+
+# HBO Max
+hbomax.com
+
+# Disney+
+disneyplus.com
+www.disneyplus.com

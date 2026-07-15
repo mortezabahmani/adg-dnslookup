@@ -1,0 +1,88 @@
+# ============================================
+# CDN Providers
+# ============================================
+# Content Delivery Networks and their
+# edge/asset domains.
+# ============================================
+
+# Cloudflare CDN (core cloudflare in cloudflare.txt)
+cdn.cloudflare.net
+ajax.cloudflare.com
+
+# jsDelivr
+cdn.jsdelivr.net
+www.jsdelivr.com
+data.jsdelivr.com
+
+# Fastly
+fastly.com
+www.fastly.com
+fastly.net
+global.ssl.fastly.net
+dualstack.osff.map.fastly.net
+
+# Akamai
+akamai.com
+www.akamai.com
+akamai.net
+akamaized.net
+akamaihd.net
+akadns.net
+edgekey.net
+edgesuite.net
+
+# Edgecast / Verizon
+edgecastcdn.net
+
+# MaxCDN / StackPath
+maxcdn.com
+www.maxcdn.com
+netdna-cdn.com
+netdna-ssl.com
+stackpath.com
+www.stackpath.com
+bootstrapcdn.com
+
+# Statically / Raw CDN
+rawgit.com
+raw.githack.com
+cdn.statically.io
+statically.io
+
+# KeyCDN
+keycdn.com
+www.keycdn.com
+
+# Bunny CDN
+bunny.net
+www.bunny.net
+b-cdn.net
+
+# CDN77
+cdn77.com
+www.cdn77.com
+
+# Limelight
+limelight.com
+llnwd.net
+
+# CacheFly
+cachefly.com
+cachefly.net
+
+# Security CDNs
+incapsula.com
+imperva.com
+sucuri.net
+section.io
+
+# Azure CDN
+azureedge.net
+azurefd.net
+msecnd.net
+
+# AWS CloudFront
+cloudfront.net
+d1.awsstatic.com
+d2.awsstatic.com
+images-na.ssl-images-amazon.com

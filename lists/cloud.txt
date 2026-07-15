@@ -1,0 +1,207 @@
+# ============================================
+# Cloud Providers
+# ============================================
+# AWS, GCP, Azure, DigitalOcean, Hetzner,
+# Linode, Vultr, OVH, Oracle, and others.
+# Note: Provider-specific domains that are
+# more relevant to other lists (e.g. google.txt,
+# microsoft.txt, cdn.txt, dev.txt) are placed
+# there instead to avoid duplication.
+# ============================================
+
+
+# ------------------------------------------
+# Amazon Web Services (AWS)
+# ------------------------------------------
+
+# Core / Console
+aws.amazon.com
+console.aws.amazon.com
+signin.aws.amazon.com
+aws.dev
+docs.aws.amazon.com
+
+# Compute & Storage
+s3.amazonaws.com
+ec2.amazonaws.com
+s3.us-east-1.amazonaws.com
+
+# Serverless
+lambda.amazonaws.com
+execute-api.amazonaws.com
+
+# Databases
+dynamodb.amazonaws.com
+rds.amazonaws.com
+elasticache.amazonaws.com
+
+# Messaging
+sqs.amazonaws.com
+sns.amazonaws.com
+
+# Security & Identity
+sts.amazonaws.com
+iam.amazonaws.com
+kms.amazonaws.com
+
+# Infrastructure
+cloudformation.amazonaws.com
+cloudwatch.amazonaws.com
+logs.amazonaws.com
+
+# Containers
+ecr.amazonaws.com
+ecs.amazonaws.com
+eks.amazonaws.com
+
+# App Hosting
+elasticbeanstalk.com
+amplifyapp.com
+awsapprunner.com
+
+
+# ------------------------------------------
+# Google Cloud Platform (GCP)
+# ------------------------------------------
+# Core GCP domains (cloud.google.com, storage.googleapis.com,
+# firebase.google.com, etc.) are in google.txt.
+
+console.cloud.google.com
+compute.googleapis.com
+container.googleapis.com
+run.googleapis.com
+cloudfunctions.googleapis.com
+firestore.googleapis.com
+bigquery.googleapis.com
+pubsub.googleapis.com
+cloudresourcemanager.googleapis.com
+iam.googleapis.com
+logging.googleapis.com
+monitoring.googleapis.com
+secretmanager.googleapis.com
+artifactregistry.googleapis.com
+cloudbuild.googleapis.com
+appengine.google.com
+
+
+# ------------------------------------------
+# Microsoft Azure
+# ------------------------------------------
+# Core Azure domains (portal.azure.com, management.azure.com,
+# blob.core.windows.net, etc.) are in microsoft.txt.
+# Azure CDN (azureedge.net, azurefd.net) is in cdn.txt.
+
+vault.azure.net
+azurewebsites.net
+database.windows.net
+queue.core.windows.net
+table.core.windows.net
+file.core.windows.net
+servicebus.windows.net
+azurecr.io
+trafficmanager.net
+cosmos.azure.com
+cognitiveservices.azure.com
+search.windows.net
+redis.cache.windows.net
+documents.azure.com
+
+
+# ------------------------------------------
+# DigitalOcean
+# ------------------------------------------
+
+digitalocean.com
+www.digitalocean.com
+api.digitalocean.com
+cloud.digitalocean.com
+docs.digitalocean.com
+registry.digitalocean.com
+spaces.digitaloceanspaces.com
+nyc1.digitaloceanspaces.com
+ams3.digitaloceanspaces.com
+ondigitalocean.app
+
+
+# ------------------------------------------
+# Hetzner
+# ------------------------------------------
+
+hetzner.com
+www.hetzner.com
+console.hetzner.cloud
+api.hetzner.cloud
+robot.hetzner.com
+docs.hetzner.com
+hetzner.de
+
+
+# ------------------------------------------
+# Linode / Akamai Cloud
+# ------------------------------------------
+
+linode.com
+www.linode.com
+api.linode.com
+cloud.linode.com
+linodeobjects.com
+
+
+# ------------------------------------------
+# Vultr
+# ------------------------------------------
+
+vultr.com
+www.vultr.com
+api.vultr.com
+my.vultr.com
+ewr1.vultrobjects.com
+
+
+# ------------------------------------------
+# OVH / OVHcloud
+# ------------------------------------------
+
+ovh.com
+www.ovh.com
+ovhcloud.com
+www.ovhcloud.com
+api.ovh.com
+
+
+# ------------------------------------------
+# Oracle Cloud
+# ------------------------------------------
+
+oracle.com
+cloud.oracle.com
+objectstorage.us-ashburn-1.oraclecloud.com
+oraclecloud.com
+
+
+# ------------------------------------------
+# Alibaba Cloud
+# ------------------------------------------
+
+alibabacloud.com
+www.alibabacloud.com
+aliyuncs.com
+
+
+# ------------------------------------------
+# IBM Cloud
+# ------------------------------------------
+
+cloud.ibm.com
+api.cloud.ibm.com
+icr.io
+
+
+# ------------------------------------------
+# Scaleway
+# ------------------------------------------
+
+scaleway.com
+www.scaleway.com
+api.scaleway.com
+console.scaleway.com

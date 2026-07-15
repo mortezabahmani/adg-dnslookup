@@ -1,0 +1,51 @@
+# ============================================
+# Meta Platforms
+# ============================================
+# Facebook, Instagram, WhatsApp, Threads,
+# Messenger, Oculus, and Meta corporate.
+# ============================================
+
+# Facebook
+facebook.com
+www.facebook.com
+m.facebook.com
+web.facebook.com
+static.xx.fbcdn.net
+scontent.xx.fbcdn.net
+fbcdn.net
+connect.facebook.net
+graph.facebook.com
+developers.facebook.com
+business.facebook.com
+
+# Instagram
+instagram.com
+www.instagram.com
+i.instagram.com
+api.instagram.com
+scontent-iad3-1.cdninstagram.com
+cdninstagram.com
+
+# WhatsApp
+whatsapp.com
+www.whatsapp.com
+web.whatsapp.com
+static.whatsapp.net
+pps.whatsapp.net
+mmg.whatsapp.net
+media.whatsapp.net
+wa.me
+
+# Threads
+threads.net
+www.threads.net
+
+# Messenger
+messenger.com
+www.messenger.com
+
+# Oculus / Meta Corporate
+oculus.com
+meta.com
+about.meta.com
+ai.meta.com

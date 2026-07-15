@@ -1,0 +1,414 @@
+# ============================================
+# Developer Tools & Services
+# ============================================
+# Git hosting, package managers, containers,
+# IDEs, CI/CD, docs, APIs, fonts & design.
+# ============================================
+
+
+# ------------------------------------------
+# Git Hosting & Code Collaboration
+# ------------------------------------------
+
+# GitHub
+github.com
+www.github.com
+api.github.com
+raw.githubusercontent.com
+gist.github.com
+gist.githubusercontent.com
+objects.githubusercontent.com
+codeload.github.com
+avatars.githubusercontent.com
+user-images.githubusercontent.com
+github.githubassets.com
+github.io
+pages.github.com
+education.github.com
+desktop.github.com
+cli.github.com
+docs.github.com
+copilot.github.com
+pkg.github.com
+npm.pkg.github.com
+maven.pkg.github.com
+actions.githubusercontent.com
+pipelines.actions.githubusercontent.com
+
+# GitLab
+gitlab.com
+www.gitlab.com
+registry.gitlab.com
+packages.gitlab.com
+
+# Bitbucket
+bitbucket.org
+www.bitbucket.org
+api.bitbucket.org
+bitbucket.com
+
+# Other Git Hosting
+codeberg.org
+sr.ht
+git.sr.ht
+gitea.io
+gitea.com
+sourcehut.org
+
+
+# ------------------------------------------
+# Package Managers
+# ------------------------------------------
+
+# npm / Yarn / pnpm
+npmjs.com
+www.npmjs.com
+registry.npmjs.org
+api.npmjs.org
+yarnpkg.com
+registry.yarnpkg.com
+pnpm.io
+
+# Python (PyPI)
+pypi.org
+www.pypi.org
+files.pythonhosted.org
+upload.pypi.org
+test.pypi.org
+pypi.python.org
+python.org
+www.python.org
+docs.python.org
+
+# Ruby (RubyGems)
+rubygems.org
+www.rubygems.org
+api.rubygems.org
+bundler.io
+
+# Rust (Crates)
+crates.io
+www.crates.io
+doc.rust-lang.org
+docs.rs
+static.crates.io
+
+# Go
+pkg.go.dev
+go.dev
+proxy.golang.org
+sum.golang.org
+golang.org
+dl.google.com
+
+# Java / Maven
+maven.org
+search.maven.org
+repo1.maven.org
+central.sonatype.com
+repo.maven.apache.org
+mvnrepository.com
+jitpack.io
+
+# PHP (Packagist / Composer)
+packagist.org
+www.packagist.org
+getcomposer.org
+
+# Other Language Package Managers
+hex.pm
+pub.dev
+cocoapods.org
+trunk.cocoapods.org
+cdn.cocoapods.org
+clojars.org
+cpan.org
+metacpan.org
+cran.r-project.org
+hackage.haskell.org
+luarocks.org
+opam.ocaml.org
+
+# JavaScript CDNs / Runtimes
+deno.land
+esm.sh
+unpkg.com
+
+
+# ------------------------------------------
+# Brew / Conda / System Package Managers
+# ------------------------------------------
+
+# Homebrew (packages hosted on GitHub)
+brew.sh
+formulae.brew.sh
+
+# Conda / Anaconda
+repo.anaconda.com
+conda.anaconda.org
+anaconda.org
+www.anaconda.com
+conda-forge.org
+repo.continuum.io
+
+# Windows Package Managers
+chocolatey.org
+community.chocolatey.org
+scoop.sh
+get.scoop.sh
+winget.run
+
+# Linux Repositories
+apt.llvm.org
+launchpad.net
+ppa.launchpad.net
+download.opensuse.org
+rpm.org
+
+
+# ------------------------------------------
+# Container / OCI Registries
+# ------------------------------------------
+
+# Docker
+hub.docker.com
+docker.com
+www.docker.com
+registry-1.docker.io
+auth.docker.io
+index.docker.io
+production.cloudflare.docker.com
+download.docker.com
+docs.docker.com
+
+# GitHub Container Registry
+ghcr.io
+
+# Other Container Registries
+quay.io
+gcr.io
+k8s.gcr.io
+registry.k8s.io
+mcr.microsoft.com
+public.ecr.aws
+gallery.ecr.aws
+docker.elastic.co
+nvcr.io
+
+
+# ------------------------------------------
+# IDE / Editor / Browser Extensions
+# ------------------------------------------
+
+# VS Code
+marketplace.visualstudio.com
+code.visualstudio.com
+update.code.visualstudio.com
+vscode.dev
+insiders.vscode.dev
+
+# Open VSX
+open-vsx.org
+www.open-vsx.org
+
+# Mozilla Add-ons
+addons.mozilla.org
+services.addons.mozilla.org
+addons.cdn.mozilla.net
+
+# Chrome Web Store
+chrome.google.com
+clients2.google.com
+clients2.googleusercontent.com
+update.googleapis.com
+chromewebstore.google.com
+
+# JetBrains
+plugins.jetbrains.com
+download.jetbrains.com
+www.jetbrains.com
+data.services.jetbrains.com
+
+# Other Editors
+packagecontrol.io
+melpa.org
+elpa.gnu.org
+atom.io
+
+
+# ------------------------------------------
+# CI/CD & Hosting Platforms
+# ------------------------------------------
+
+# CircleCI
+circleci.com
+www.circleci.com
+app.circleci.com
+
+# Travis CI
+travis-ci.org
+travis-ci.com
+api.travis-ci.org
+
+# Netlify
+netlify.com
+www.netlify.com
+app.netlify.com
+api.netlify.com
+
+# Vercel
+vercel.com
+www.vercel.com
+api.vercel.com
+v0.dev
+
+# Render
+render.com
+www.render.com
+
+# Heroku
+heroku.com
+www.heroku.com
+api.heroku.com
+
+# Other Platforms
+railway.app
+fly.io
+api.fly.io
+surge.sh
+deno.dev
+deno.com
+repl.it
+replit.com
+codesandbox.io
+stackblitz.com
+codepen.io
+jsfiddle.net
+glitch.com
+
+
+# ------------------------------------------
+# Documentation & Learning
+# ------------------------------------------
+
+# Stack Overflow / Stack Exchange
+stackoverflow.com
+www.stackoverflow.com
+cdn.sstatic.net
+stackexchange.com
+serverfault.com
+superuser.com
+askubuntu.com
+
+# MDN / Web Standards
+developer.mozilla.org
+mdn.github.io
+web.dev
+caniuse.com
+devdocs.io
+
+# W3Schools
+w3schools.com
+www.w3schools.com
+
+# Online Learning
+freecodecamp.org
+www.freecodecamp.org
+codecademy.com
+www.codecademy.com
+udemy.com
+www.udemy.com
+coursera.org
+www.coursera.org
+edx.org
+www.edx.org
+khanacademy.org
+www.khanacademy.org
+
+# Competitive Programming
+leetcode.com
+www.leetcode.com
+hackerrank.com
+www.hackerrank.com
+
+
+# ------------------------------------------
+# APIs & Developer Services
+# ------------------------------------------
+
+# API Tools
+postman.com
+www.postman.com
+api.postman.com
+swagger.io
+www.swagger.io
+rapidapi.com
+graphql.org
+grpc.io
+
+# Testing APIs
+httpbin.org
+jsonplaceholder.typicode.com
+reqres.in
+restcountries.com
+
+# AI / ML Platforms
+openai.com
+api.openai.com
+platform.openai.com
+chat.openai.com
+cdn.openai.com
+huggingface.co
+www.huggingface.co
+api-inference.huggingface.co
+cdn-lfs.huggingface.co
+anthropic.com
+api.anthropic.com
+console.anthropic.com
+
+# Monitoring & Observability
+sentry.io
+www.sentry.io
+app.sentry.io
+bugsnag.com
+logrocket.com
+datadog.com
+grafana.com
+prometheus.io
+elastic.co
+www.elastic.co
+kibana.elastic.co
+newrelic.com
+pagerduty.com
+statuspage.io
+uptimerobot.com
+
+
+# ------------------------------------------
+# Fonts & Design
+# ------------------------------------------
+
+# Google Fonts (static assets)
+fonts.gstatic.com
+
+# Adobe Typekit
+use.typekit.net
+p.typekit.net
+
+# Font Awesome
+fontawesome.com
+use.fontawesome.com
+ka-f.fontawesome.com
+
+# Bootstrap CDN
+maxcdn.bootstrapcdn.com
+
+# Design Tools
+figma.com
+www.figma.com
+api.figma.com
+dribbble.com
+behance.net
+www.behance.net
+canva.com
+www.canva.com

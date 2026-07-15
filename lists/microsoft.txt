@@ -1,0 +1,99 @@
+# ============================================
+# Microsoft Services
+# ============================================
+# Microsoft 365, Azure, Windows, LinkedIn,
+# Xbox, developer tools, and more.
+# ============================================
+
+# Core / Corporate
+microsoft.com
+www.microsoft.com
+
+# Authentication
+login.microsoftonline.com
+login.live.com
+microsoftonline.com
+
+# Outlook / Email
+outlook.live.com
+outlook.office365.com
+outlook.office.com
+
+# Microsoft 365 / Office
+office.com
+www.office.com
+office365.com
+forms.office.com
+sway.office.com
+
+# SharePoint
+sharepoint.com
+
+# OneDrive
+onedrive.live.com
+onedrive.com
+
+# Microsoft Teams
+teams.microsoft.com
+
+# Visual Studio / DevOps
+visualstudio.com
+dev.azure.com
+
+# Azure
+portal.azure.com
+management.azure.com
+azure.microsoft.com
+azure.com
+windows.net
+blob.core.windows.net
+
+# Live / MSN
+live.com
+msn.com
+
+# Bing / Copilot
+bing.com
+www.bing.com
+copilot.microsoft.com
+
+# LinkedIn
+linkedin.com
+www.linkedin.com
+api.linkedin.com
+
+# Skype
+skype.com
+
+# Xbox
+xbox.com
+xbox.live.com
+
+# Windows Update
+windowsupdate.com
+update.microsoft.com
+download.microsoft.com
+
+# Documentation & Learning
+learn.microsoft.com
+docs.microsoft.com
+technet.microsoft.com
+msdn.microsoft.com
+
+# .NET / NuGet
+dotnet.microsoft.com
+nuget.org
+www.nuget.org
+api.nuget.org
+
+# PowerShell
+powershellgallery.com
+
+# Other Microsoft Services
+onenote.com
+graph.microsoft.com
+aka.ms
+
+# Power BI
+powerbi.microsoft.com
+app.powerbi.com
