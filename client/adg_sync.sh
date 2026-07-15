@@ -65,16 +65,17 @@ check_deps() {
 }
 
 # ── AdGuard API helpers ──────────────────────────────────────
+# Using curl -K - with standard input prevents credential exposure in `ps` output and disk.
 agh_get() {
-    curl -s -f \
-        -u "${AGH_USER}:${AGH_PASS}" \
+    echo "user = \"${AGH_USER}:${AGH_PASS}\"" | curl -s -f \
+        -K - \
         "${AGH_URL}$1"
 }
 
 agh_post() {
     _endpoint="$1"; _body="$2"
-    curl -s -f \
-        -u "${AGH_USER}:${AGH_PASS}" \
+    echo "user = \"${AGH_USER}:${AGH_PASS}\"" | curl -s -f \
+        -K - \
         -H "Content-Type: application/json" \
         -d "$_body" \
         "${AGH_URL}${_endpoint}"
